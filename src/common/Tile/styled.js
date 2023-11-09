@@ -3,10 +3,9 @@ import { ReactComponent as VectorDown } from "../../images/vectorDown.svg";
 import { ReactComponent as VectorUp } from "../../images/vectorUp.svg";
 
 export const StyledTile = styled.div`
-  margin: 15px;
   display: flex;
   flex-direction: column;
-  height: 100%;
+  max-height: 100%;
 `;
 
 export const TileHeader = styled.h2`
