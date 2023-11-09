@@ -1,0 +1,470 @@
+[
+    {
+        "pamBuildVersion": "BUILD_NUMBER",
+        "features": [
+            {
+                "description": "Inny opis projektu",
+                "date": "2023-10-26T00:00:00",
+                "repoName": "InnyProjekt"
+            }
+        ],
+        "bugfixs": [
+            {
+                "description": "lalalalInny opis projektu",
+                "date": "2023-10-26T00:00:00",
+                "repoName": "InnyProjekt"
+            },
+            {
+                "description": "Rozwój aplikacji webowej",
+                "date": "2023-10-27T00:00:00",
+                "repoName": "AplikacjaWeb"
+            }
+        ],
+        "others": [
+            {
+                "description": "baaaaInny opis projektu",
+                "date": "2023-10-26T00:00:00",
+                "repoName": "InnyProjekt"
+            },
+            {
+                "description": "Rozwój aplikacji webowej",
+                "date": "2023-10-27T00:00:00",
+                "repoName": "AplikacjaWeb"
+            },
+            {
+                "description": "Administrowanie bazą danych",
+                "date": "2023-10-28T00:00:00",
+                "repoName": "AdminBazaDanych"
+            },
+            {
+                "description": "Optymalizacja kodu źródłowego",
+                "date": "2023-10-29T00:00:00",
+                "repoName": "OptymalizacjaKodu"
+            },
+            {
+                "description": "Testowanie nowych funkcji",
+                "date": "2023-10-30T00:00:00",
+                "repoName": "TestowanieFunkcji"
+            }
+        ]
+    },
+    {
+        "pamBuildVersion": "981",
+        "features": [
+            {
+                "description": "Dodanie opcji walidacji produktów zlecenia przed zatwierdzeniem.\n\n‌",
+                "date": "2023-11-06T09:40:38.981245",
+                "repoName": "ePam"
+            },
+            {
+                "description": "* Klasa do obslugi openApi\n* Zwracanie komunikatów błędów\n* Zwracanie komunikatów błędów\n* Blokada funckji tylko dla dba\n* AI w module sql.\n\n‌",
+                "date": "2023-11-06T09:20:42.439282",
+                "repoName": "Pam"
+            }
+        ],
+        "bugfixs": [],
+        "others": []
+    },
+    {
+        "pamBuildVersion": "977",
+        "features": [
+            {
+                "description": "",
+                "date": "2023-10-31T15:42:41.980467",
+                "repoName": "Pam"
+            }
+        ],
+        "bugfixs": [],
+        "others": []
+    },
+    {
+        "pamBuildVersion": "975",
+        "features": [
+            {
+                "description": "",
+                "date": "2023-10-31T10:05:14.477773",
+                "repoName": "Pam"
+            }
+        ],
+        "bugfixs": [],
+        "others": []
+    },
+    {
+        "pamBuildVersion": "972",
+        "features": [
+            {
+                "description": "",
+                "date": "2023-08-01T08:23:26.873083",
+                "repoName": "Pam"
+            }
+        ],
+        "bugfixs": [],
+        "others": []
+    },
+    {
+        "pamBuildVersion": "961",
+        "features": [],
+        "bugfixs": [
+            {
+                "description": "* Dodanie toleracji przy porównywaniu cen\n* Dodanie connectionstring do redanD\n\n‌",
+                "date": "2023-10-24T08:47:47.764416",
+                "repoName": "Pam"
+            }
+        ],
+        "others": []
+    },
+    {
+        "pamBuildVersion": "960",
+        "features": [
+            {
+                "description": "",
+                "date": "2023-10-05T09:07:20.683287",
+                "repoName": "Pam"
+            }
+        ],
+        "bugfixs": [
+            {
+                "description": "* Dodanie brakującej metody\n* Dodanie async\n* Wygaszenie listy jeśli brak nawiewnika\n\n‌",
+                "date": "2023-10-26T15:14:07.793234",
+                "repoName": "ePam"
+            }
+        ],
+        "others": []
+    },
+    {
+        "pamBuildVersion": "955",
+        "features": [],
+        "bugfixs": [
+            {
+                "description": "",
+                "date": "2023-10-26T10:39:53.490194",
+                "repoName": "Pam"
+            }
+        ],
+        "others": []
+    },
+    {
+        "pamBuildVersion": "953",
+        "features": [],
+        "bugfixs": [],
+        "others": [
+            {
+                "description": "",
+                "date": "2023-10-26T07:42:20.792194",
+                "repoName": "Reports"
+            }
+        ]
+    },
+    {
+        "pamBuildVersion": "952",
+        "features": [],
+        "bugfixs": [],
+        "others": [
+            {
+                "description": "",
+                "date": "2023-10-25T14:10:10.270502",
+                "repoName": "Reports"
+            }
+        ]
+    },
+    {
+        "pamBuildVersion": "951",
+        "features": [],
+        "bugfixs": [],
+        "others": [
+            {
+                "description": "",
+                "date": "2023-10-25T13:58:47.050961",
+                "repoName": "Reports"
+            }
+        ]
+    },
+    {
+        "pamBuildVersion": "2",
+        "features": [
+            {
+                "description": "* dodanie do formuł commitowania\n* ukrycie buttona gdy jest sie userem innnym niz dba\n\n‌",
+                "date": "2023-10-31T09:24:00.06165",
+                "repoName": "Pam"
+            },
+            {
+                "description": "* Przeniesie reportcommit do app oraz refactoring repfuncs\n* Poprawienie PamReportCommit i dodanie warunków do comitowania formuł oraz poprawienie RepFuncs\n\n‌",
+                "date": "2023-10-31T09:22:49.364139",
+                "repoName": "Pam"
+            }
+        ],
+        "bugfixs": [
+            {
+                "description": "",
+                "date": "2023-10-31T09:21:00.128116",
+                "repoName": "Pam"
+            },
+            {
+                "description": "* poprawa zaznaczania klamki\n* poprawa rysowania klamki usuniecie komentarzy\n\n‌",
+                "date": "2023-10-31T09:23:23.536666",
+                "repoName": "Pam"
+            }
+        ],
+        "others": []
+    },
+    {
+        "pamBuildVersion": "15",
+        "features": [
+            {
+                "description": "",
+                "date": "2023-09-14T15:48:58.552899",
+                "repoName": "Pam"
+            }
+        ],
+        "bugfixs": [],
+        "others": []
+    },
+    {
+        "pamBuildVersion": "1.1.6",
+        "features": [],
+        "bugfixs": [],
+        "others": [
+            {
+                "description": "Inny opis projektu",
+                "date": "2023-10-26T00:00:00",
+                "repoName": "InnyProjekt"
+            },
+            {
+                "description": "Rozwój aplikacji webowej",
+                "date": "2023-10-27T00:00:00",
+                "repoName": "AplikacjaWeb"
+            },
+            {
+                "description": "Administrowanie bazą danych",
+                "date": "2023-10-28T00:00:00",
+                "repoName": "AdminBazaDanych"
+            },
+            {
+                "description": "Optymalizacja kodu źródłowego",
+                "date": "2023-10-29T00:00:00",
+                "repoName": "OptymalizacjaKodu"
+            },
+            {
+                "description": "Testowanie nowych funkcji",
+                "date": "2023-10-30T00:00:00",
+                "repoName": "TestowanieFunkcji"
+            },
+            {
+                "description": "Testowanie nowych funkcji",
+                "date": "2023-10-30T00:00:00",
+                "repoName": "TestowanieFunkcji"
+            },
+            {
+                "description": "Testowanie nowych funkcji",
+                "date": "2023-10-30T00:00:00",
+                "repoName": "TestowanieFunkcji"
+            },
+            {
+                "description": "Testowanie nowych funkcji",
+                "date": "2023-10-30T00:00:00",
+                "repoName": "TestowanieFunkcji"
+            },
+            {
+                "description": "Testowanie nowych funkcji",
+                "date": "2023-10-30T00:00:00",
+                "repoName": "TestowanieFunkcji"
+            }
+        ]
+    },
+    {
+        "pamBuildVersion": "1.1.5",
+        "features": [],
+        "bugfixs": [],
+        "others": [
+            {
+                "description": "Inny opis projektu",
+                "date": "2023-10-26T00:00:00",
+                "repoName": "InnyProjekt"
+            },
+            {
+                "description": "Rozwój aplikacji webowej",
+                "date": "2023-10-27T00:00:00",
+                "repoName": "AplikacjaWeb"
+            },
+            {
+                "description": "Administrowanie bazą danych",
+                "date": "2023-10-28T00:00:00",
+                "repoName": "AdminBazaDanych"
+            },
+            {
+                "description": "Optymalizacja kodu źródłowego",
+                "date": "2023-10-29T00:00:00",
+                "repoName": "OptymalizacjaKodu"
+            },
+            {
+                "description": "Testowanie nowych funkcji",
+                "date": "2023-10-30T00:00:00",
+                "repoName": "TestowanieFunkcji"
+            }
+        ]
+    },
+    {
+        "pamBuildVersion": "1.1.4",
+        "features": [],
+        "bugfixs": [],
+        "others": [
+            {
+                "description": "Rozwój aplikacji webowej",
+                "date": "2023-10-25T00:00:00",
+                "repoName": "ProjektWebowy"
+            },
+            {
+                "description": "Naprawa błędów oprogramowania",
+                "date": "2023-10-25T00:00:00",
+                "repoName": "OprogramowanieFirmowe"
+            },
+            {
+                "description": "Tworzenie aplikacji mobilnej",
+                "date": "2023-10-25T00:00:00",
+                "repoName": "MobilnyProjekt"
+            },
+            {
+                "description": "Optymalizacja serwera baz danych",
+                "date": "2023-10-25T00:00:00",
+                "repoName": "BazyDanych"
+            },
+            {
+                "description": "Testowanie oprogramowania",
+                "date": "2023-10-25T00:00:00",
+                "repoName": "TestyJakościowe"
+            },
+            {
+                "description": "Nowy projekt e-commerce",
+                "date": "2023-10-25T00:00:00",
+                "repoName": "ECommerceProjekt"
+            },
+            {
+                "description": "Rozwój aplikacji mobilnej",
+                "date": "2023-10-25T00:00:00",
+                "repoName": "MobilnaAplikacja"
+            },
+            {
+                "description": "Serwisowanie serwerów",
+                "date": "2023-10-25T00:00:00",
+                "repoName": "SerweryIT"
+            },
+            {
+                "description": "Optymalizacja bazy danych",
+                "date": "2023-10-25T00:00:00",
+                "repoName": "BazaDanychOpt"
+            },
+            {
+                "description": "Testowanie nowych funkcji",
+                "date": "2023-10-25T00:00:00",
+                "repoName": "NoweFunkcjeTest"
+            }
+        ]
+    },
+    {
+        "pamBuildVersion": "1.1.3",
+        "features": [
+            {
+                "description": "* Pierwszy commit\n* drugi commit\n* dodatkowa poprawka po pull request\n\n‌",
+                "date": "2023-10-24T12:49:13.308629",
+                "repoName": "ClassLibTest"
+            },
+            {
+                "description": "* Pierwszy commit\n* drugi commit\n* dodatkowa poprawka po pull request\n\n‌",
+                "date": "2023-10-24T12:49:13.308629",
+                "repoName": "ClassLibTest"
+            },
+            {
+                "description": "* Pierwszy commit\n* drugi commit\n* dodatkowa poprawka po pull request\n\n‌",
+                "date": "2023-10-24T12:49:13.308629",
+                "repoName": "ClassLibTest"
+            },
+            {
+                "description": "Oferty",
+                "date": "2023-10-24T12:49:13.308629",
+                "repoName": "ClassLibTest"
+            },
+            {
+                "description": "Faktury",
+                "date": "2023-10-24T12:49:13.308629",
+                "repoName": "ClassLibTest"
+            },
+            {
+                "description": "Test",
+                "date": "2023-10-24T12:49:13.308629",
+                "repoName": "ClassLibTest"
+            },
+            {
+                "description": "Test",
+                "date": "2023-10-24T12:49:13.308629",
+                "repoName": "ClassLibTest"
+            },
+            {
+                "description": "Test",
+                "date": "2023-10-24T12:49:13.308629",
+                "repoName": "ClassLibTest"
+            },
+            {
+                "description": "Test",
+                "date": "2023-10-24T12:49:13.308629",
+                "repoName": "ClassLibTest"
+            }
+        ],
+        "bugfixs": [],
+        "others": []
+    },
+    {
+        "pamBuildVersion": "1.1.2",
+        "features": [
+            {
+                "description": "* Pierwszy commit\n* drugi commit\n* dodatkowa poprawka po pull request\n\n‌",
+                "date": "2023-10-24T12:49:13.308629",
+                "repoName": "ClassLibTest"
+            },
+            {
+                "description": "Jakaś tam nowa ważna funkcjonalność warto się pochwalić!",
+                "date": "2023-10-24T15:25:04.846111",
+                "repoName": "ClassLibTest"
+            }
+        ],
+        "bugfixs": [
+            {
+                "description": "Naprawiamy rzeczy",
+                "date": "2023-10-24T15:27:44.858379",
+                "repoName": "ClassLibTest"
+            }
+        ],
+        "others": []
+    },
+    {
+        "pamBuildVersion": "1.1.1",
+        "features": [],
+        "bugfixs": [],
+        "others": [
+            {
+                "description": "Rozwój aplikacji webowej",
+                "date": "2023-10-25T00:00:00",
+                "repoName": "ProjektWebowy"
+            },
+            {
+                "description": "Naprawa błędów oprogramowania",
+                "date": "2023-10-25T00:00:00",
+                "repoName": "OprogramowanieFirmowe"
+            },
+            {
+                "description": "Tworzenie aplikacji mobilnej",
+                "date": "2023-10-25T00:00:00",
+                "repoName": "MobilnyProjekt"
+            },
+            {
+                "description": "Optymalizacja serwera baz danych",
+                "date": "2023-10-25T00:00:00",
+                "repoName": "BazyDanych"
+            },
+            {
+                "description": "Testowanie oprogramowania",
+                "date": "2023-10-25T00:00:00",
+                "repoName": "TestyJakościowe"
+            }
+        ]
+    }
+]
